@@ -12,6 +12,9 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <sonar.language>java</sonar.language>
+     <sonar.host.url>
+       https://172.104.133.134/sonarqube
+     </sonar.host.url>
   </properties>
 
   <dependencies>
