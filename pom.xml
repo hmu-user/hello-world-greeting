@@ -15,6 +15,7 @@
     <sonar.host.url>
        http://172.104.133.134:9000
      </sonar.host.url>
+    <sonar.login>2515cd20223dc94d7886f15bdb9e09b0ac593efa</sonar.login>
   </properties>
 
   <dependencies>
