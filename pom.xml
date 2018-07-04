@@ -11,7 +11,10 @@
   
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <sonar.language>java</sonar.language>    
+    <sonar.language>java</sonar.language>  
+    <sonar.host.url>
+       http://172.104.133.134:9000
+     </sonar.host.url>
   </properties>
 
   <dependencies>
