@@ -13,7 +13,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <sonar.language>java</sonar.language>
      <sonar.host.url>
-       http://127.0.0.1:9000
+       http://127.0.0.1:9000/sonarqube
      </sonar.host.url>
     <sonar.login>2515cd20223dc94d7886f15bdb9e09b0ac593efa</sonar.login>
   </properties>
